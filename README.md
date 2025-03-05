@@ -8,7 +8,6 @@ Este repositório contém a implementação do projeto **AluGames**, desenvolvid
 - Listar jogos disponíveis  
 - Registrar aluguel de jogos  
 - Calcular período de locação  
-- [Outras funcionalidades relevantes]
 
 ## 🏗️ Tecnologias Utilizadas
 
